@@ -161,8 +161,8 @@ I18n.en =
     field_cancel: "Ləğv et"
     field_delete: "Sahəni Sil"
     field_delete_alert: "Bu sahəni silmək istədiyinə əminsən?\n(təsdiq etmədən silmək üçün SHIFT düyməsini basılı saxlayın)"
-    field_ref_table: "Ref. Cədvəl"
-    field_ref_field: "Ref. Sahə"
+    field_ref_table: "İstinad cədvəli"
+    field_ref_field: "İstinad sahəsi"
   alerts:
     delete_schema: "Bu sxemi silmək istədiyinə əminsən?"
     server_error: "Server xətası baş verdi"
