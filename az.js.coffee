@@ -160,7 +160,7 @@ I18n.en =
     field_update: "Yenilə"
     field_cancel: "Ləğv et"
     field_delete: "Sahəni Sil"
-    field_delete_alert: "Bu sahəni silmək istədiyinə əminsən?\n(təsdiq etmədən silmək üçün SHIFT düyməsini basılı saxlayın)"
+    field_delete_alert: "Bu sahəni silmək istədiyinə əminsən?\n(təsdiq etmədən silmək üçün SHIFT düyməsini basılı saxla)"
     field_ref_table: "İstinad cədvəli"
     field_ref_field: "İstinad sahəsi"
   alerts:
