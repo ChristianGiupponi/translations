@@ -120,7 +120,7 @@ I18n.en =
     feedback_bug: "Xəta bildir"
     feedback_feature: "Yeni xüsusiyyət tələbi"
     feedback_help: "Kömək"
-    feedback_other: "Other"
+    feedback_other: "Digər"
     feedback_message: "Mesaj"
     feedback_button: "Geri Bildiriş göndər"
     about: "dbdesigner.net haqqında"
